@@ -1,1 +1,8 @@
 node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Keep compiled assets for GitHub Pages
+# css/
+# js/scripts.min.js
